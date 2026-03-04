@@ -1,2 +1,2 @@
-# engenharia_de_prompt_ia
+# Engenharia_de_Prompt_IA
 disciplina da faculdade
