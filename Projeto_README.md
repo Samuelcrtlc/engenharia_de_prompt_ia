@@ -3,8 +3,7 @@
 Para a realização deste desafio, selecionei o projeto de **Cadastro de Usuários**. A solução será desenvolvida utilizando a plataforma **WIX**, 
 focando em uma interface funcional e fluxos de dados eficientes.
 
-<img width="1896" height="964" alt="Captura de tela 2026-05-12 205758" src="https://github.com/user-attachments/assets/f36a23fa-e759-4dc9-b581-25082a22fbdb" />
-<img width="1906" height="966" alt="Captura de tela 2026-05-12 205934" src="https://github.com/user-attachments/assets/348df13f-6152-4964-902b-bb7879dbc099" />
+<img width="1900" height="665" alt="image" src="https://github.com/user-attachments/assets/891bda6d-0342-4cd5-b11f-aa3d23dde75f" />
 
 # Justificativa Técnica da Escolha da Plataforma
 ## Por que escolhemos o Wix?
