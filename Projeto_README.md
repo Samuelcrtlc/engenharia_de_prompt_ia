@@ -45,3 +45,10 @@ Como a plataforma gerencia toda a infraestrutura, não é possível configurar a
 |---|---|
 | **Luiz Fernando Nobre** | Criação do layout da página de cadastro no Wix, configuração do formulário e campos de entrada, testes de usabilidade e captura dos prints para documentação |
 | **Samuel Natalicio da Silva** | Estruturação do repositório no GitHub, redação do README (justificativa técnica e análise crítica)
+
+
+
+Link do Site: https://luiznobre1.wixsite.com/zenith 
+
+
+
